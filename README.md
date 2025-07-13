@@ -15,8 +15,8 @@ If it runs, glows, clicks, or explodes — there's a good chance I coded it. �
 
            Tech (adam_filw)
 
-Hey! I'm Adam
-I’m a dev at AquaHub.GG, where I spend my time scripting cool stuff and making our tools feel smooth and fun to use.
+Hi there! My name is Adam.
+I work as a developer at AquaHub.GG, where I spend my days typing amazing things and making our tools playable and smooth.
+With every update, I try to improve things by testing features and experimenting with new concepts.
 
-I’m always experimenting with new ideas, testing features, and trying to make things better with every update.
-Based in Morocco, I enjoy learning new stuff And I'm Happy that i've been qualified to be a tester And joined this server.
+I'm Moroccan, I like to learn new things, and I'm glad I joined this server and was approved to be a tester.
